@@ -1,2 +1,1 @@
-let yourArray=['one' ,2,true,null,false]
-console.log(yourArray);
+let yourArray = ["hello", 42, true, null, "world"]; 
